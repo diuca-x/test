@@ -4,12 +4,8 @@ body{
     background-color: rgb(233, 233, 233);
     
 }
-/* styling 
-*{
-    border: red solid 1px;
-}
-styling */
 h1.header{
+    /* format */
     margin: 0;
     height: 100%;
     width: 500px;
@@ -20,6 +16,7 @@ h1.header{
     
 }
 div.headerbox{
+    /* format */
     text-align:left;
     vertical-align: middle;
     padding: 10px 0px 10px 400px;        
@@ -27,7 +24,8 @@ div.headerbox{
     /* styling */
     background-color: white;
 }
-div.feedbox{    
+div.feedbox{  
+    /* format */  
     padding: 10px 0px 0px 400px;
     width: 100%x;
     border: none;
@@ -38,12 +36,12 @@ div.feedbox{
 }
 div.post{
     height: 400px;
-    margin-top: 30px;
-    
+    margin-top: 30px;    
     width: 500px;
     
 }
 div.imgHeader{
+    /* format */
     display: flex;
     height: 10%;
     margin: 1px;
@@ -51,6 +49,7 @@ div.imgHeader{
     background-color: white;
 }
 .headerTittle{
+    /* format */
     width: 440px;
 	vertical-align: middle;
 	margin: 0;
@@ -61,6 +60,7 @@ div.imgHeader{
 
 }
 .header2{
+    /* format */
     width: 60px;
     vertical-align: middle;
     margin: 0;
@@ -84,6 +84,7 @@ div.image img{
     
 }
 div.imgBody{
+    /* format */
     height: 15%;   
     margin: 1px;
     display: flex;
@@ -91,6 +92,7 @@ div.imgBody{
     background-color: white;
 }
 div.imgBody p{
+    /* format */
     width: 500px;
 	vertical-align: middle;
     text-align: left;
