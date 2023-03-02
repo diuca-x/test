@@ -1,0 +1,104 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(233, 233, 233);
+    
+}
+/* styling 
+*{
+    border: red solid 1px;
+}
+styling */
+h1.header{
+    margin: 0;
+    height: 100%;
+    width: 500px;
+    /* styling */
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 800;
+    
+}
+div.headerbox{
+    text-align:left;
+    vertical-align: middle;
+    padding: 10px 0px 10px 400px;        
+    height: 10%;
+    /* styling */
+    background-color: white;
+}
+div.feedbox{    
+    padding: 10px 0px 0px 400px;
+    width: 100%x;
+    border: none;
+    margin-bottom: 10px;
+    /*styling*/
+    background-color: rgb(233, 233, 233);
+    
+}
+div.post{
+    height: 400px;
+    margin-top: 30px;
+    
+    width: 500px;
+    
+}
+div.imgHeader{
+    display: flex;
+    height: 10%;
+    margin: 1px;
+    /* styling */
+    background-color: white;
+}
+.headerTittle{
+    width: 440px;
+	vertical-align: middle;
+	margin: 0;
+    padding: 13px 8px 8px;
+    /* styling */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+.header2{
+    width: 60px;
+    vertical-align: middle;
+    margin: 0;
+    padding-top: 5px;
+    padding: 13px 8px 8px;
+    text-align: right;
+    /* styling */
+    font-size: 13px;
+    color: rgb(182, 182, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+div.image{
+    height: 75%;
+    margin: 1px;
+    
+}
+div.image img{
+    width: 100%;
+    height: 100%;
+    
+}
+div.imgBody{
+    height: 15%;   
+    margin: 1px;
+    display: flex;
+    /* styling */
+    background-color: white;
+}
+div.imgBody p{
+    width: 500px;
+	vertical-align: middle;
+    text-align: left;
+	margin: 0 auto;
+    padding: 20px 40px 20px 20px;
+    height: 100%;
+    /*styling*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
